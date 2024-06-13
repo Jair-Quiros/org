@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-commerce</title>
+  <link rel="icon" href="/images/X.ico" type="image/x-icon">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>E-commerce Alura GEEK</h1>
+  </header>
+  <main>
+    <div class="container">
+      <div class="productos-galeria" data-lista></div>
+      <form class="producto-form" data-formulario>
+        <h2>Agregar producto</h2>
+        <div class="input-group">
+          <label for="descripcion">Descripción:</label>
+          <input type="text" id="descripcion" placeholder="Introduzca la descripcion" required data-descripcion>
+        </div>
+        <div class="input-group">
+          <label for="precio">Precio:</label>
+          <input type="number" id="precio" placeholder= "Introduzca el precio" required data-precio>
+        </div>
+        <div class="input-group">
+          <label for="titulo">Titulo:</label>
+          <input type="text" id="titulo" placeholder="Introduzca el titulo" required data-titulo>
+        </div>
+        <div class="input-group">
+          <label for="imagen">Imagen:</label>
+          <input type="file" id="imagen" accept="./images/*"  required data-imagen>
+        </div>
+        <div class="button-group">
+          <button type="submit">Enviar</button>
+          <button type="reset">Limpiar</button>
+        </div>
+      </form>
+    </div>
+  </main>
+  <footer>
+    <p class="rigths">&copy; 2024 E-commerce</p>
+    <p class="development">Desarrollado por Jair Quiros</p>
+  </footer>
+
+  <script src="./js/mostrarImagenes.js" type="module"></script>
+  <script src="./js/crearImagen.js" type="module"></script>
+</body>
+</html>

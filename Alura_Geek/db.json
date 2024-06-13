@@ -1,0 +1,130 @@
+{
+  "productos": [
+    {
+      "descripcion": "Audifonos Inalambricos",
+      "id": "1",
+      "imagen": "./images/audifonos_1.png",
+      "titulo": "audifonos_1",
+      "precio": "50"
+    },
+    {
+      "descripcion": "Audifonos Deportivos",
+      "id": "2",
+      "imagen": "./images/audifonos_2.png",
+      "titulo": "audifonos_2",
+      "precio": "70"
+    },
+    {
+      "descripcion": "Audifonos jogging",
+      "id": "3",
+      "imagen": "./images/audifonos_3.png",
+      "titulo": "audifonos_3",
+      "precio": "90"
+    },
+    {
+      "descripcion": "Protector Samsung",
+      "id": "4",
+      "imagen": "./images/estuche_1.png",
+      "titulo": "estuche_1",
+      "precio": "25"
+    },
+    {
+      "descripcion": "Protector Nokia",
+      "id": "5",
+      "imagen": "./images/estuche_2.png",
+      "titulo": "estuche_2",
+      "precio": "35"
+    },
+    {
+      "descripcion": "Protector Xiaomi",
+      "id": "6",
+      "imagen": "./images/estuche_3.png",
+      "titulo": "estuche_3",
+      "precio": "40"
+    },
+    {
+      "descripcion": "Holder Fijo",
+      "id": "7",
+      "imagen": "./images/holder_1.png",
+      "titulo": "holder_1",
+      "precio": "25"
+    },
+    {
+      "descripcion": "Holder Plegable",
+      "id": "8",
+      "imagen": "./images/holder_2.png",
+      "titulo": "holder_2",
+      "precio": "25"
+    },
+    {
+      "descripcion": "Holder carro",
+      "id": "9",
+      "imagen": "./images/holder_3.png",
+      "titulo": "holder_3",
+      "precio": "40"
+    },
+    {
+      "descripcion": "Smartwatch Samsung",
+      "id": "10",
+      "imagen": "./images/smartwatch_1.png",
+      "titulo": "smartwatch_1",
+      "precio": "120"
+    },
+    {
+      "descripcion": "Smartwatch Xiaomi",
+      "id": "11",
+      "imagen": "./images/smartwatch_2.png",
+      "titulo": "smartwatch_2",
+      "precio": "250"
+    },
+    {
+      "descripcion": "Smartwatch Motorola",
+      "id": "12",
+      "imagen": "./images/smartwatch_3.png",
+      "titulo": "smartwatch_3",
+      "precio": "180"
+    },
+    {
+      "descripcion": "Mouse Pad Argomtech",
+      "id": "13",
+      "imagen": "./images/Mouse_Pad_Argomtech_ARG-AC-1233L.png",
+      "titulo": "mousepad_1",
+      "precio": "10"
+    },
+    {
+      "descripcion": "Mouse Pad HyperX",
+      "id": "14",
+      "imagen": "./images/Mouse_Pad_HyperX_Fury_S_Speed_Editi.png",
+      "titulo": "mousepad_2",
+      "precio": "15"
+    },
+    {
+      "descripcion": "Mouse Pad Primus",
+      "id": "15",
+      "imagen": "./images/Mouse_Pad_Primus_Gaming_Arena_Desing_13XXL.png",
+      "titulo": "mousepad_3",
+      "precio": "25"
+    },
+    {
+      "descripcion": "Mouse Razer",
+      "id": "16",
+      "imagen": "./images/Mouse_Razer_Viper_8Khz_Edición_ESL_USB.png",
+      "titulo": "mouse_1",
+      "precio": "50"
+    },
+    {
+      "descripcion": "Mouse Gamer",
+      "id": "17",
+      "imagen": "./images/Mouse-Gamer_ARG_MS_2042BK_1_300x300.png",
+      "titulo": "mouse_2",
+      "precio": "40"
+    },
+    {
+      "descripcion": "mouse Sharkoon",
+      "id": "18",
+      "imagen": "./images/Mouse_Sharkoon_Drakonia_II_USB.png",
+      "titulo": "mouse_3",
+      "precio": "55"
+    }
+  ]
+}
